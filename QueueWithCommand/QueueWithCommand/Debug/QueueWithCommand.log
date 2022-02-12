@@ -1,0 +1,4 @@
+﻿  QueueWithCommand.cpp
+D:\ПАША\C++ projects\QueueWithCommand\QueueWithCommand\QueueWithCommand.cpp(36,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ПАША\C++ projects\QueueWithCommand\QueueWithCommand\QueueWithCommand.cpp(39,31): warning C4018: <: несоответствие типов со знаком и без знака
+  QueueWithCommand.vcxproj -> D:\ПАША\C++ projects\QueueWithCommand\Debug\QueueWithCommand.exe
