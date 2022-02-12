@@ -1,0 +1,4 @@
+﻿  List of students.cpp
+D:\ПАША\C++ projects\List of students\List of students\List of students.cpp(31,36): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\ПАША\C++ projects\List of students\List of students\List of students.cpp(43,36): warning C4018: <=: несоответствие типов со знаком и без знака
+  List of students.vcxproj -> D:\ПАША\C++ projects\List of students\Debug\List of students.exe
