@@ -1,0 +1,13 @@
+﻿  Factorital.cpp
+D:\ПАША\C++ projects\Factorital\Factorital\Factorital.cpp(15,23): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\ПАША\C++ projects\Factorital\Factorital\Factorital.cpp(15,49): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\ПАША\C++ projects\Factorital\Factorital\Factorital.cpp(19,27): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\ПАША\C++ projects\Factorital\Factorital\Factorital.cpp(26,23): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\ПАША\C++ projects\Factorital\Factorital\Factorital.cpp(26,48): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\ПАША\C++ projects\Factorital\Factorital\Factorital.cpp(26,53): warning C4244: =: преобразование "__int64" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=size_t
+          ]
+D:\ПАША\C++ projects\Factorital\Factorital\Factorital.cpp(29,26): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+  Factorital.vcxproj -> D:\ПАША\C++ projects\Factorital\Debug\Factorital.exe
